@@ -23,7 +23,7 @@ https://wordpress.org/plugins/easy-login-woocommerce/
 
 Customizing your woo-commerce account page for a better user experience.
 
-Get rip of the woo-commerce default account layout and customize it according to your needs by following this tutorial.
+Step 3 - Get rip of the woo-commerce default account layout and customize it according to your needs by following this tutorial.
 
 https://www.youtube.com/watch?v=IgdP7MnFjnI
 
