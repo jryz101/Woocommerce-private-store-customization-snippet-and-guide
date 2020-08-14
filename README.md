@@ -1,2 +1,2 @@
-# Woocommerce-private-store-customization-snippet-and-guide
+# Woocommerce-private-store-customization-snippet
 Privatize your woocommerce store and only allowing registered users to access the shop pages of your store.
