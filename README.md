@@ -1,6 +1,8 @@
 # Woocommerce private store customization guide
 Privatize your woocommerce store and only allowing registered users to access the shop pages of your store.
 
+
+
 Woo-commerce software is a well-known e-commerce solution in the market, first released in 2011 by WooThemes. In the U.S. alone, WooCommerce powers a whopping 55% of all eCommerce sites and nearly 2.3 million online stores. One of the core differentiators of WooCommerce versus other eCommerce platforms is its tight integration and fully customizable advantage, meaning you get a world-class commerce solution for your online store business.
 
 In this repository, I am going to show you how to customize a woo-commerce software to become a Private store with the snippet and a little help from a plugin. This guide will not just focus on creating a private store but also will guide you through customizing the user account UX and flow of accessing the private area of your store. Let's dive into it.
