@@ -7,7 +7,7 @@ Woo-commerce software is a well-known e-commerce solution in the market, first r
 
 In this repository, I am going to show you how to customize a woo-commerce software to become a Private store with the snippet and a little help from a plugin. This guide will not just focus on creating a private store but also will guide you through customizing the user account UX and flow of accessing the private area of your store. Let's dive into it.
 
-By default, your website visitors can access all of your store pages like shop, cart, and check-out page that powered by woo-commerce without needing an account. Base on a Private store concept, you would want to restrict the unregistered user from accessing the shop pages. And that is why this guide comes in handy. I am going to teach you how to privatize your online store and only allowing registered users to access the shop pages of your store.
+By default, your website visitors can access all of your store pages like shop, cart, and check-out page that powered by woo-commerce without needing an account. Base on a private store concept, you would want to restrict the unregistered user from accessing the shop pages. And that is the point where this guide comes in handy. I am going to teach you how to privatize your online store and only allowing registered users to access the shop pages of your store.
 
 There are three sectors we need to address for this implementation.
 
